@@ -1,0 +1,291 @@
+ Internal Spatial Consistency Report... 
+
+ Data Name: 01_Flipped.off
+ Data Type: 3D Polyhedral model consisted of triangles.
+
+ Checking vertices... 
+ Number of vertices: 44
+ Minimum and Maximum vertex in-degree: (3,9)
+
+ Checking edges... 
+ Number of edges and halfedges: (126,252)
+ Number of border edges: 0
+
+ Checking faces... 
+ A total number of 84 faces including: 
+ 84 trinagle(s), 0 quadrat(s), and 0 arbitrary face(s).
+ Minimum and Maximum face degree: (3,3)
+
+ Primitive Checks... 
+ Number of nonplanar faces: 0
+ Self-intersection status: The 3D object is not self-intersected.
+ Pairs of faces intersected:0
+ Number of collinearity detected: 0
+ Orientation status: The 3D object is not correctly oriented.
+
+ Advanced Check...  
+ Closure status: The 3D object is Watertight.
+ Number of holes detected: 0
+ ----------------------------------------------------------------- 
+ Internal Spatial Consistency Report... 
+
+ Data Name: 01_Flipped_non-watertight.off
+ Data Type: 3D Polyhedral model consisted of triangles.
+
+ Checking vertices... 
+ Number of vertices: 44
+ Minimum and Maximum vertex in-degree: (3,9)
+
+ Checking edges... 
+ Number of edges and halfedges: (126,252)
+ Number of border edges: 3
+
+ Checking faces... 
+ A total number of 83 faces including: 
+ 83 trinagle(s), 0 quadrat(s), and 0 arbitrary face(s).
+ Minimum and Maximum face degree: (3,3)
+
+ Primitive Checks... 
+ Number of nonplanar faces: 0
+ Self-intersection status: The 3D object is not self-intersected.
+ Pairs of faces intersected:0
+ Number of collinearity detected: 0
+ Orientation status: The 3D object is not correctly oriented.
+
+ Advanced Check...  
+ Closure status: The 3D object is not Watertight!
+ Number of holes detected: 1
+ -----------------------------------------------------------------
+ Internal Spatial Consistency Report... 
+
+ Data Name: 04_self-intersected.off
+ Data Type: 3D Polyhedral model consisted of triangles.
+
+ Checking vertices... 
+ Number of vertices: 86
+ Minimum and Maximum vertex in-degree: (3,10)
+
+ Checking edges... 
+ Number of edges and halfedges: (252,504)
+ Number of border edges: 0
+
+ Checking faces... 
+ A total number of 168 faces including: 
+ 168 trinagle(s), 0 quadrat(s), and 0 arbitrary face(s).
+ Minimum and Maximum face degree: (3,3)
+
+ Primitive Checks... 
+ Number of nonplanar faces: 0
+ Self-intersection status: The 3D object is self-intersected.
+ Pairs of faces intersected:14
+ Number of collinearity detected: 0
+ Orientation status:  The 3D object is correctly outward oriented.
+
+ Advanced Check...  
+ Closure status: The 3D object is Watertight.
+ Number of holes detected: 0
+ ----------------------------------------------------------------- 
+ Internal Spatial Consistency Report... 
+
+ Data Name: 04_self-intersected_Flipped.off
+ Data Type: 3D Polyhedral model consisted of triangles.
+
+ Checking vertices... 
+ Number of vertices: 86
+ Minimum and Maximum vertex in-degree: (3,10)
+
+ Checking edges... 
+ Number of edges and halfedges: (252,504)
+ Number of border edges: 0
+
+ Checking faces... 
+ A total number of 168 faces including: 
+ 168 trinagle(s), 0 quadrat(s), and 0 arbitrary face(s).
+ Minimum and Maximum face degree: (3,3)
+
+ Primitive Checks... 
+ Number of nonplanar faces: 0
+ Self-intersection status: The 3D object is self-intersected.
+ Pairs of faces intersected:14
+ Number of collinearity detected: 0
+ Orientation status: The 3D object is not correctly oriented.
+
+ Advanced Check...  
+ Closure status: The 3D object is Watertight.
+ Number of holes detected: 0
+ ----------------------------------------------------------------- 
+ Internal Spatial Consistency Report... 
+
+ Data Name: 04_self-intersected_non-watertight.off
+ Data Type: 3D Polyhedral model consisted of triangles.
+
+ Checking vertices... 
+ Number of vertices: 86
+ Minimum and Maximum vertex in-degree: (3,10)
+
+ Checking edges... 
+ Number of edges and halfedges: (252,504)
+ Number of border edges: 21
+
+ Checking faces... 
+ A total number of 161 faces including: 
+ 161 trinagle(s), 0 quadrat(s), and 0 arbitrary face(s).
+ Minimum and Maximum face degree: (3,3)
+
+ Primitive Checks... 
+ Number of nonplanar faces: 0
+ Self-intersection status: The 3D object is self-intersected.
+ Pairs of faces intersected:13
+ Number of collinearity detected: 0
+ Orientation status:  The 3D object is correctly outward oriented.
+
+ Advanced Check...  
+ Closure status: The 3D object is not Watertight!
+ Number of holes detected: 7
+ ----------------------------------------------------------------- 
+ Internal Spatial Consistency Report... 
+
+ Data Name: 47_non-watertight.off
+ Data Type: 3D Polyhedral model consisted of triangles.
+
+ Checking vertices... 
+ Number of vertices: 36
+ Minimum and Maximum vertex in-degree: (4,9)
+
+ Checking edges... 
+ Number of edges and halfedges: (102,204)
+ Number of border edges: 6
+
+ Checking faces... 
+ A total number of 66 faces including: 
+ 66 trinagle(s), 0 quadrat(s), and 0 arbitrary face(s).
+ Minimum and Maximum face degree: (3,3)
+
+ Primitive Checks... 
+ Number of nonplanar faces: 0
+ Self-intersection status: The 3D object is not self-intersected.
+ Pairs of faces intersected:0
+ Number of collinearity detected: 0
+ Orientation status:  The 3D object is correctly outward oriented.
+
+ Advanced Check...  
+ Closure status: The 3D object is not Watertight!
+ Number of holes detected: 2
+ ----------------------------------------------------------------- 
+ Internal Spatial Consistency Report... 
+
+ Data Name: 4_self-intersected_Flipped_non-watertight.off
+ Data Type: 3D Polyhedral model consisted of triangles.
+
+ Checking vertices... 
+ Number of vertices: 86
+ Minimum and Maximum vertex in-degree: (3,10)
+
+ Checking edges... 
+ Number of edges and halfedges: (252,504)
+ Number of border edges: 12
+
+ Checking faces... 
+ A total number of 164 faces including: 
+ 164 trinagle(s), 0 quadrat(s), and 0 arbitrary face(s).
+ Minimum and Maximum face degree: (3,3)
+
+ Primitive Checks... 
+ Number of nonplanar faces: 0
+ Self-intersection status: The 3D object is self-intersected.
+ Pairs of faces intersected:11
+ Number of collinearity detected: 0
+ Orientation status: The 3D object is not correctly oriented.
+
+ Advanced Check...  
+ Closure status: The 3D object is not Watertight!
+ Number of holes detected: 4
+ ----------------------------------------------------------------- 
+ Internal Spatial Consistency Report... 
+
+ Data Name: 51_non-watertight_non-planar.off
+ Data Type: 3D Polyhedral model consisted of quads.
+
+ Checking vertices... 
+ Number of vertices: 8
+ Minimum and Maximum vertex in-degree: (3,3)
+
+ Checking edges... 
+ Number of edges and halfedges: (12,24)
+ Number of border edges: 4
+
+ Checking faces... 
+ A total number of 5 faces including: 
+ 0 trinagle(s), 5 quadrat(s), and 0 arbitrary face(s).
+ Minimum and Maximum face degree: (4,4)
+
+ Primitive Checks... 
+ Number of nonplanar faces: 1
+ Self-intersection status: The 3D object is not self-intersected.
+ Pairs of faces intersected:0
+ Number of collinearity detected: 0
+ Orientation status:  The 3D object is correctly outward oriented.
+
+ Advanced Check...  
+ Closure status: The 3D object is not Watertight!
+ Number of holes detected: 1
+ ----------------------------------------------------------------- 
+ Internal Spatial Consistency Report... 
+
+ Data Name: 51_non-watertight_non-planar_Flipped.off
+ Data Type: 3D Polyhedral model consisted of quads.
+
+ Checking vertices... 
+ Number of vertices: 8
+ Minimum and Maximum vertex in-degree: (3,3)
+
+ Checking edges... 
+ Number of edges and halfedges: (12,24)
+ Number of border edges: 4
+
+ Checking faces... 
+ A total number of 5 faces including: 
+ 0 trinagle(s), 5 quadrat(s), and 0 arbitrary face(s).
+ Minimum and Maximum face degree: (4,4)
+
+ Primitive Checks... 
+ Number of nonplanar faces: 1
+ Self-intersection status: The 3D object is not self-intersected.
+ Pairs of faces intersected:0
+ Number of collinearity detected: 0
+ Orientation status: The 3D object is not correctly oriented.
+
+ Advanced Check...  
+ Closure status: The 3D object is not Watertight!
+ Number of holes detected: 1
+ ----------------------------------------------------------------- 
+ Internal Spatial Consistency Report... 
+
+ Data Name: 51_non-watertight_non-planar_Self-intersected_Flipped.off
+ Data Type: 3D Polyhedral model consisted of quads.
+
+ Checking vertices... 
+ Number of vertices: 10
+ Minimum and Maximum vertex in-degree: (2,4)
+
+ Checking edges... 
+ Number of edges and halfedges: (15,30)
+ Number of border edges: 10
+
+ Checking faces... 
+ A total number of 5 faces including: 
+ 0 trinagle(s), 5 quadrat(s), and 0 arbitrary face(s).
+ Minimum and Maximum face degree: (4,4)
+
+ Primitive Checks... 
+ Number of nonplanar faces: 1
+ Self-intersection status: The 3D object is self-intersected.
+ Pairs of faces intersected:6
+ Number of collinearity detected: 0
+ Orientation status: The 3D object is not correctly oriented.
+
+ Advanced Check...  
+ Closure status: The 3D object is not Watertight!
+ Number of holes detected: 2
+ ----------------------------------------------------------------- 
+ 
