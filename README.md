@@ -17,6 +17,7 @@ This code was implemented with C++ programming language using Computational Geom
 
 ## Citation
 ```
+Asghari A, Kalantari M, Rajabifard A. Advances in techniques to formulate the watertight concept for cadastre. Transactions in GIS. 2020;00:1–25. https://doi.org/10.1111/tgis.12695
 ```
 ## Author
 Ali Asghari
