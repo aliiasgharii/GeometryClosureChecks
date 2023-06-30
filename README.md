@@ -21,7 +21,7 @@ Asghari A, Kalantari M, Rajabifard A. Advances in techniques to formulate the wa
 ```
 ## Author
 Ali Asghari
-- Email: <aasghari@student.unimelb.edu.au>
+- Email: <asgharia@unimelb.edu.au>
 - Linkedin: [Here](https://www.linkedin.com/in/aliiasgharii/)
 
 ## Acknowledgments
